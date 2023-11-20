@@ -1,0 +1,9 @@
+body {
+   font-family: sans-serif;
+}
+
+img {
+    object-fit: contain;
+    height: fit-content;
+}
+    
